@@ -1,0 +1,14 @@
+D:\_CSharp\Sami\ElevatorForZoneArea51\bin\Debug\netcoreapp3.1\ElevatorForZoneArea51.exe
+D:\_CSharp\Sami\ElevatorForZoneArea51\bin\Debug\netcoreapp3.1\ElevatorForZoneArea51.deps.json
+D:\_CSharp\Sami\ElevatorForZoneArea51\bin\Debug\netcoreapp3.1\ElevatorForZoneArea51.runtimeconfig.json
+D:\_CSharp\Sami\ElevatorForZoneArea51\bin\Debug\netcoreapp3.1\ElevatorForZoneArea51.runtimeconfig.dev.json
+D:\_CSharp\Sami\ElevatorForZoneArea51\bin\Debug\netcoreapp3.1\ElevatorForZoneArea51.dll
+D:\_CSharp\Sami\ElevatorForZoneArea51\bin\Debug\netcoreapp3.1\ElevatorForZoneArea51.pdb
+D:\_CSharp\Sami\ElevatorForZoneArea51\obj\Debug\netcoreapp3.1\ElevatorForZoneArea51.csproj.AssemblyReference.cache
+D:\_CSharp\Sami\ElevatorForZoneArea51\obj\Debug\netcoreapp3.1\ElevatorForZoneArea51.GeneratedMSBuildEditorConfig.editorconfig
+D:\_CSharp\Sami\ElevatorForZoneArea51\obj\Debug\netcoreapp3.1\ElevatorForZoneArea51.AssemblyInfoInputs.cache
+D:\_CSharp\Sami\ElevatorForZoneArea51\obj\Debug\netcoreapp3.1\ElevatorForZoneArea51.AssemblyInfo.cs
+D:\_CSharp\Sami\ElevatorForZoneArea51\obj\Debug\netcoreapp3.1\ElevatorForZoneArea51.csproj.CoreCompileInputs.cache
+D:\_CSharp\Sami\ElevatorForZoneArea51\obj\Debug\netcoreapp3.1\ElevatorForZoneArea51.dll
+D:\_CSharp\Sami\ElevatorForZoneArea51\obj\Debug\netcoreapp3.1\ElevatorForZoneArea51.pdb
+D:\_CSharp\Sami\ElevatorForZoneArea51\obj\Debug\netcoreapp3.1\ElevatorForZoneArea51.genruntimeconfig.cache
